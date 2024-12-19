@@ -1,0 +1,18 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(275,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(404,9): warning C4101: 'prueba': unreferenced local variable
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(447,21): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(448,19): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(449,18): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(462,24): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(462,42): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(464,41): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(464,66): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(464,91): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(464,116): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(464,141): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(474,23): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(474,41): warning C4309: 'argument': truncation of constant value
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(730,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(809,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\ram\Downloads\ConsoleApplication2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
